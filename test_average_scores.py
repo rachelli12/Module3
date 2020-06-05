@@ -1,3 +1,10 @@
+"""
+Program: test_average_scores.py
+Author: Rachel Li
+Last date modified: 06/03/2020
+
+The purpose of this program is to test average_scores.py.
+"""
 import unittest
 import unittest.mock as mock
 from format_output import average_scores as avg
